@@ -23,9 +23,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakiba313&label=Profile%20views&color=1c1c1c&style=flat" alt="Shakiba" /> </p>
 
 ---
-S
--
-- 
+Skills
+ 
 - 🌱 I’m currently learning HTML and CSS.
 
 - 💻 All **my projects** are available [here](https://github.com/Shakiba313)
